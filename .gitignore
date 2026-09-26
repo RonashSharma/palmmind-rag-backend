@@ -1,0 +1,6 @@
+pmenv/
+__pycache__/
+*.pyc
+.env
+palmmind.db
+qdrant_storage/
